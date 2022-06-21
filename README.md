@@ -278,3 +278,20 @@ The following specifications were met on the Express backend and the React front
         - **optional**:
           - [ ] `receipt` - text describing the order (what might go on a receipt)
       - [ ] It should then send a JSON response back to the client with the new purchase like so: `{ "purchase": purchase }`. The response should have a `201` status code for a resource created action.
+
+
+## Reflection
+### Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
+The topics in the labs, mainly about react components and things like conditional rednering, did help in completing the project. However, I did feel a bit unprepared to complete the parts relating to browser router as I had to learn everything pertaining to that on the fly as I had not worked with that before. 
+
+### If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
+With more time, I would have wanted to add a bit more features to make some overall experience better, such as touching up the CSS and implementing more of the stretch features in. I also wanted to fix the appearance of my product detail as I was having some difficulty making the CSS polished.
+
+### Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
+The things that went well for the most part was understanding the components and implementing most of the core functionality. One thing that didnt go as planned was the CSS, it took significantly more time than expected to properly try and fine tune everything the way I wanted them to be. In addition, I noticed that many of my peers used color gradiants in their website designs that I would like to implement in my own in the future.
+
+### Open-source libraries used
+N/A
+
+### Shout out
+I would like to shout out the TA's, Rebecca helped me out with a lot of issues I was having. In addition, I also wanted to shout out everyone who worked together on this over discord helping everyone out with their issues, namely Kai and Shehab.
